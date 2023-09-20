@@ -15,13 +15,13 @@ Este repositorio contiene el enunciado de la práctica de la primera semana.
 
 ## Enunciado
 
-- Utilizando expresiones regulares y el método findall(), deberás extraer el número de cada una de las líneas del texto,
+- Utilizando expresiones regulares y el método `findall()`, deberás extraer el número de cada una de las líneas del texto,
 - Luego deberás calcular el promedio de los números,
 - Finalmente, debes imprimir el promedio como número entero.
-- Debes realizar estas acciones para cada uno de los archivos .txt
+- Debes realizar estas acciones para cada uno de los archivos `.txt`
 
 ## Comprobación de resultados
 
-Para el archivo: `mbox.txt` el resultado que debes lograr es 38549
+Para el archivo: `mbox.txt` el resultado que debes lograr es `38549`
 
-Para el archivo: `mbox-short.txt`el resultado que debes lograr es 39756
+Para el archivo: `mbox-short.txt` el resultado que debes lograr es `39756`

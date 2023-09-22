@@ -4,7 +4,7 @@ Este repositorio contiene el enunciado de la práctica de la primera semana.
 
 ## Modalidad de presentación
 
-1. Debes hacer un `fork` de este repositorio a tu cuenta de GitHub.
+1. Debes hacer un `fork` de este repositorio a tu cuenta de GitHub o puedes crearlo desde el botón `Use this template`.
 2. Luego en tu repositorio, debes crear los archivos necesarios para resolver la práctica.
 3. Finalmente, presentar en WebAsignatura el enlace de tu repositorio.
 

@@ -15,7 +15,7 @@ Este repositorio contiene el enunciado de la práctica de la primera semana.
 
 ## Enunciado
 
-- Utilizando expresiones regulares y el método `findall()`, deberás extraer el número de cada una de las líneas del texto,
+- Utilizando expresiones regulares y el método `findall()`, deberás extraer los número de revisión que encuentres en el texto,
 - Luego deberás calcular el promedio de los números,
 - Finalmente, debes imprimir el promedio como número entero.
 - Debes realizar estas acciones para cada uno de los archivos `.txt`
